@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Data Analysis Projects Banner" width="100%">
+</p>
+
 # Data Analysis Projects
 
 This repository showcases my data analysis projects completed using Python, Pandas, and Jupyter Notebooks.  
